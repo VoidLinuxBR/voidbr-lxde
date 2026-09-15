@@ -18,15 +18,6 @@ depends=(
 	voidbr-xorg-common
 	voidbr-gui-common
   lxde
-  lxde-common
-  lxde-icon-theme
-  lxrandr
-  lxrandr
-  lxtask
-  lxinput
-  lxlauncher
-  lxterminal
-  lxappearance
 	voidbr-lxde-config
 )
 
